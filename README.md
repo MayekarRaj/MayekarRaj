@@ -1,4 +1,4 @@
-<center><img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=RajMayekar&fontSize=90" /></center>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Raj Mayekar&fontSize=90" /></p>
 
 <h1 align="center">Hi👋, I,m Raj Mayekar</h1>
 <h2 align="center">Flutter Developer</h2>
