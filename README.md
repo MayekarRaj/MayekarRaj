@@ -5,9 +5,17 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40" />
-           </a>  </p>
+<p align="left"> 
+            <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutteroriginal.svg" alt="flutter" width="40" height="40" />
+           </a> 
+            <a href="https://go.dev/" target="_blank" rel="noreferrer">                        
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"alt="golang" width="40" height="40" />
+            </a> 
+            <a href="">
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="golang" width="40" height="40" />
+            </a>  
+</p>
 <!--
 **MayekarRaj/MayekarRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
