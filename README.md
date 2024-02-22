@@ -70,6 +70,11 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="mongodb" width="40" height="40"/>           
             </a>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayekarraj&hide_progress=true&theme=dark" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mayekarraj&show_icons=true&theme=dark#gh-dark-mode-only" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayekarraj&theme=dark" alt="mayekarraj" /></p>
+
 
 
           
