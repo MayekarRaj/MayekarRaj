@@ -63,9 +63,17 @@
             <a href="https://www.android.com/intl/en_in/" target="_blank" rel="noreferrer">               
                               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/>
             </a>
+            <a href="https://www.android.com/intl/en_in/" target="_blank" rel="noreferrer">                                       
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+            </a>
+             <a href="https://www.android.com/intl/en_in/" target="_blank" rel="noreferrer">                                       
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="mongodb" width="40" height="40"/>           
+            </a>
 
 
 
+          
+          
           
           
           
