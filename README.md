@@ -1,120 +1,104 @@
-<!--<p align="center"><img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=RajMayekar&fontSize=90" /></p>-->
+<h1 align="center">Hi 👋, I'm Raj Mayekar</h1>
 
-<h1 align="center">Hi👋, I,m Raj Mayekar</h1>
-<h2 align="center">Software Developer</h2>
+<h3 align="center">
+AI Software Engineer | Full-Stack Builder | Startup & Freelance Products
+</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> 
-            <a href="https://flutter.dev/" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-           </a> 
-            <a href="https://go.dev/" rel="noreferrer">                        
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"alt="golang" width="40" height="40" />
-            </a> 
-            <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" />
-            </a>  
-            <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/>
-            </a>
-            <a href="[https://nodejs.org/en](https://nextjs.org/)" target="_blank" rel="noreferrer"> 
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-            </a>
-            <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>                         
-            </a>
-            <a href="https://www.postman.com/" target="_blank" rel="noreferrer">               
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/>
-            </a>
-            <a href="https://www.postman.com/" target="_blank" rel="noreferrer">               
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
-            </a>
-            <a href="https://git-scm.com/" target="_blank" rel="noreferrer">               
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-            </a>
-             <a href="https://www.android.com/intl/en_in/" target="_blank" rel="noreferrer">               
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" alt="android" width="40" height="40"/>
-            </a>
-              <a href="https://www.android.com/intl/en_in/" target="_blank" rel="noreferrer">               
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="google_cloud" width="40" height="40" />
-            </a>
-               <a href="https://www.android.com/intl/en_in/" target="_blank" rel="noreferrer">               
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  alt="python" width="40" height="40" />
-            </a>
-            <a href="https://www.android.com/intl/en_in/" target="_blank" rel="noreferrer">               
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit_learn" width="40" height="40" />
-            </a>
-             <a href="https://www.android.com/intl/en_in/" target="_blank" rel="noreferrer">               
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="flask" width="40" height="40" />
-            </a>
-            <a href="https://www.android.com/intl/en_in/" target="_blank" rel="noreferrer">               
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="django" width="40" height="40" />
-            </a>
-             <a href="https://www.android.com/intl/en_in/" target="_blank" rel="noreferrer">               
-                                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-            </a>
-            <a href="https://www.android.com/intl/en_in/" target="_blank" rel="noreferrer">               
-                                               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
-            </a>
-            <a href="https://www.android.com/intl/en_in/" target="_blank" rel="noreferrer">               
-                                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
-            </a>
-            <a href="https://www.android.com/intl/en_in/" target="_blank" rel="noreferrer">               
-                              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/>
-            </a>
-            <a href="https://www.android.com/intl/en_in/" target="_blank" rel="noreferrer">                                       
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-            </a>
-             <a href="https://www.android.com/intl/en_in/" target="_blank" rel="noreferrer">                                       
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="mongodb" width="40" height="40"/>           
-            </a>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayekarraj&hide_progress=true&theme=dark" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mayekarraj&show_icons=true&theme=dark#gh-dark-mode-only" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayekarraj&theme=dark" alt="mayekarraj" /></p>
-
-
-
-          
-          
-          
-          
-          
-
-          
-
-            
-          
-
-
-
-          
-
-
-            
-          
-            
-
-
-          
-          
-          
-          
-          
+<p align="center">
+I build intelligent, production-ready software — from AI models to scalable backend systems and cross-platform apps.
 </p>
-<!--
-**MayekarRaj/MayekarRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+
+I’m an early-career **AI Software Engineer** with hands-on experience building and shipping  
+**real-world products for startups and freelance clients**.
+
+I work at the intersection of **AI, software engineering, and product thinking** — comfortable taking ideas from **concept → MVP → production**.
+
+- Built multiple **startup & freelance products** end-to-end  
+- Strong focus on **applied AI**, backend architecture, and scalability  
+- Experienced in **Flutter**, backend APIs, and ML-driven systems  
+- Comfortable owning features independently in fast-moving environments  
+
+---
+
+## 🛠️ Tech Stack
+
+### AI / Data
+- Python, Scikit-Learn, Jupyter  
+- ML pipelines, data preprocessing, model integration  
+
+### Frontend
+- Flutter (Mobile & Web)  
+- React, Next.js  
+
+### Backend
+- Go, Node.js, Express  
+- Django, Flask  
+- Firebase, REST APIs  
+
+### Databases
+- MongoDB  
+- MySQL  
+- Firestore  
+
+### Tools & Cloud
+- Git  
+- Postman  
+- Google Cloud  
+
+---
+
+## 🚧 Featured Work
+
+### Sports & Turf Booking Platform
+- Cross-platform app built with Flutter  
+- OTP authentication, bookings, admin workflows  
+- Backend APIs with cloud integration  
+
+### AI-Driven Biosecurity & Disease Prediction
+- ML models for poultry & livestock health risk prediction  
+- Farm-level data analysis and decision support  
+- Python + Flask backend  
+
+### Startup & Freelance Products
+- Built MVPs and production systems for early-stage startups  
+- Worked across UI, backend, databases, and deployment  
+- Focus on fast iteration, reliability, and real users  
+
+---
+
+## 📚 Currently Exploring
+
+- Applied AI in production systems  
+- Backend system design & scalability  
+- AI-powered decision support tools  
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mayekarraj&show_icons=true&theme=dark" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayekarraj&theme=dark" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayekarraj&hide_progress=true&theme=dark" />
+</p>
+
+---
+
+## 🌐 Open To
+
+- Full-time roles  
+- Freelance & contract work  
+- Startup collaborations  
+- AI-driven product development  
+
+📫 Reach out via GitHub — always open to building something meaningful.
