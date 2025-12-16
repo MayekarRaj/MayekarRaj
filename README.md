@@ -46,16 +46,6 @@ Git · Postman · Google Cloud
 
 ## 🚧 Featured Work
 
-### Sports & Turf Booking Platform
-- Cross-platform Flutter app  
-- OTP authentication, booking flows, admin tools  
-- Cloud-backed APIs and scalable architecture  
-
-### AI-Driven Biosecurity & Disease Prediction
-- ML models for poultry & livestock health risks  
-- Farm-level decision support systems  
-- Python + Flask backend  
-
 ### Startup & Freelance Products
 - Built MVPs and production systems for early-stage startups  
 - Worked across frontend, backend, databases, and deployment  
