@@ -1,72 +1,65 @@
 <h1 align="center">Hi 👋, I'm Raj Mayekar</h1>
 
-<h3 align="center">
-AI Software Engineer | Full-Stack Builder | Startup & Freelance Products
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=720&lines=AI+Software+Engineer;Full-Stack+Builder;Startup+%26+Freelance+Products;Building+Intelligent+Systems" />
+</p>
 
 <p align="center">
-I build intelligent, production-ready software — from AI models to scalable backend systems and cross-platform apps.
+  <img src="https://komarev.com/ghpvc/?username=mayekarraj&label=Profile%20Views&style=flat" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-I’m an early-career **AI Software Engineer** with hands-on experience building and shipping  
-**real-world products for startups and freelance clients**.
+I’m an early-career **AI Software Engineer** building **real-world products** across  
+AI, backend systems, and cross-platform applications.
 
-I work at the intersection of **AI, software engineering, and product thinking** — comfortable taking ideas from **concept → MVP → production**.
+I enjoy working where **engineering meets product** — taking ideas from  
+**concept → MVP → production** in fast-moving environments.
 
-- Built multiple **startup & freelance products** end-to-end  
-- Strong focus on **applied AI**, backend architecture, and scalability  
-- Experienced in **Flutter**, backend APIs, and ML-driven systems  
-- Comfortable owning features independently in fast-moving environments  
+- Built and shipped **startup & freelance products**
+- Focused on **applied AI**, system design, and scalability
+- Strong experience with **Flutter**, backend APIs, and ML integration
+- Comfortable owning features end-to-end
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### AI / Data
-- Python, Scikit-Learn, Jupyter  
-- ML pipelines, data preprocessing, model integration  
+Python · Scikit-Learn · Jupyter · ML Pipelines
 
 ### Frontend
-- Flutter (Mobile & Web)  
-- React, Next.js  
+Flutter · React · Next.js
 
 ### Backend
-- Go, Node.js, Express  
-- Django, Flask  
-- Firebase, REST APIs  
+Go · Node.js · Express · Django · Flask · Firebase
 
 ### Databases
-- MongoDB  
-- MySQL  
-- Firestore  
+MongoDB · MySQL · Firestore
 
 ### Tools & Cloud
-- Git  
-- Postman  
-- Google Cloud  
+Git · Postman · Google Cloud
 
 ---
 
 ## 🚧 Featured Work
 
 ### Sports & Turf Booking Platform
-- Cross-platform app built with Flutter  
-- OTP authentication, bookings, admin workflows  
-- Backend APIs with cloud integration  
+- Cross-platform Flutter app  
+- OTP authentication, booking flows, admin tools  
+- Cloud-backed APIs and scalable architecture  
 
 ### AI-Driven Biosecurity & Disease Prediction
-- ML models for poultry & livestock health risk prediction  
-- Farm-level data analysis and decision support  
+- ML models for poultry & livestock health risks  
+- Farm-level decision support systems  
 - Python + Flask backend  
 
 ### Startup & Freelance Products
 - Built MVPs and production systems for early-stage startups  
-- Worked across UI, backend, databases, and deployment  
-- Focus on fast iteration, reliability, and real users  
+- Worked across frontend, backend, databases, and deployment  
+- Strong focus on reliability and real users  
 
 ---
 
@@ -78,17 +71,17 @@ I work at the intersection of **AI, software engineering, and product thinking**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mayekarraj&show_icons=true&theme=dark" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayekarraj&theme=dark" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayekarraj&hide_progress=true&theme=dark" />
 </p>
 
@@ -102,3 +95,9 @@ I work at the intersection of **AI, software engineering, and product thinking**
 - AI-driven product development  
 
 📫 Reach out via GitHub — always open to building something meaningful.
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
