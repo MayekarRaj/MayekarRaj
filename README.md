@@ -26,22 +26,23 @@ I enjoy working where **engineering meets product** — taking ideas from  **con
 ## 🛠️ Tech Stack
 
 ### AI / Data
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
-  · ML Pipelines
 </p>
 
+<sub>ML pipelines, data preprocessing, model integration</sub>
+
 ### Frontend
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
 </p>
 
 ### Backend
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
@@ -51,14 +52,14 @@ I enjoy working where **engineering meets product** — taking ideas from  **con
 </p>
 
 ### Databases
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="40"/>
 </p>
 
 ### Tools & Cloud
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
@@ -72,6 +73,15 @@ I enjoy working where **engineering meets product** — taking ideas from  **con
 - Built MVPs and production systems for early-stage startups  
 - Worked across frontend, backend, databases, and deployment  
 - Strong focus on reliability and real users  
+
+---
+
+## 🧠 How I Approach Building
+
+- Start with the problem, not the stack  
+- Prefer simple systems that can evolve  
+- Treat AI as a product capability, not a demo  
+- Optimize for real users, not just clean code  
 
 ---
 
