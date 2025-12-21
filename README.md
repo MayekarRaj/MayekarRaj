@@ -12,11 +12,9 @@
 
 ## 👋 About Me
 
-I’m an early-career **AI Software Engineer** building **real-world products** across  
-AI, backend systems, and cross-platform applications.
+I’m an early-career **AI Software Engineer** building **real-world products** across AI, backend systems, and cross-platform applications.
 
-I enjoy working where **engineering meets product** — taking ideas from  
-**concept → MVP → production** in fast-moving environments.
+I enjoy working where **engineering meets product** — taking ideas from  **concept → MVP → production** in fast-moving environments.
 
 - Built and shipped **startup & freelance products**
 - Focused on **applied AI**, system design, and scalability
@@ -40,7 +38,11 @@ Go · Node.js · Express · Django · Flask · Firebase
 MongoDB · MySQL · Firestore
 
 ### Tools & Cloud
-Git · Postman · Google Cloud
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
+</p>
 
 ---
 
